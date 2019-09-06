@@ -43,3 +43,4 @@ logs/
 .svn
 .CVS
 .idea
+package-lock.json

@@ -3,7 +3,11 @@
   "author": "EragonJiang",
   "version": "2.0.0",
   "description": "Node server demo based on koa",
-  "keywords": ["node", "koa", "demo"],
+  "keywords": [
+    "node",
+    "koa",
+    "demo"
+  ],
   "scripts": {
     "start": "NODE_ENV=production node app.js",
     "dev": "pm2 start app.json --env dev",
